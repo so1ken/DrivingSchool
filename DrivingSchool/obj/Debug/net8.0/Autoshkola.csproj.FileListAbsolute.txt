@@ -1,0 +1,15 @@
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\bin\Debug\net8.0\Autoshkola.exe
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\bin\Debug\net8.0\Autoshkola.deps.json
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\bin\Debug\net8.0\Autoshkola.runtimeconfig.json
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\bin\Debug\net8.0\Autoshkola.dll
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\bin\Debug\net8.0\Autoshkola.pdb
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.AssemblyInfoInputs.cache
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.AssemblyInfo.cs
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.csproj.CoreCompileInputs.cache
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.dll
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\refint\Autoshkola.dll
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.pdb
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.genruntimeconfig.cache
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\ref\Autoshkola.dll
+D:\VIsual Studio\repos\Autoshkola\Autoshkola\obj\Debug\net8.0\Autoshkola.csproj.Up2Date
